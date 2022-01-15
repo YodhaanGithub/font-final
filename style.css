@@ -1,0 +1,34 @@
+.heading{
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px yellow; 
+}
+
+.note {
+    font-size: 15px;
+    color: blue;
+}
+
+.footer {
+    position: fixed;
+    color:blueviolet;
+    bottom: 0;
+    width:  100%;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas
+{
+    border: 5px solid navy;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px yellow; 
+    background: linear-gradient(navy 0%, #ffea00 100%);
+}
+
+#head{
+    font-size: 25px;
+}
+#Font_size{
+    font-size: 18px;
+}
